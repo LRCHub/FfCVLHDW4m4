@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "あの日タイムマシン",
+  "base_artist": "LONG SHOT PARTY",
+  "createdAt": "2026-02-14T18:18:40.667419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あの日タイムマシン",
+      "artist": "LONG SHOT PARTY",
+      "has_synced": true,
+      "path": "select/01_あの日タイムマシン_LONG_SHOT_PARTY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あの日タイムマシン",
+      "artist": "Long Shot Party",
+      "has_synced": true,
+      "path": "select/02_あの日タイムマシン_Long_Shot_Party.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あの日タイムマシン",
+      "artist": "中孝介",
+      "has_synced": true,
+      "path": "select/03_あの日タイムマシン_中孝介.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あの日タイムマシン (Instrumental)",
+      "artist": "LONG SHOT PARTY",
+      "has_synced": true,
+      "path": "select/04_あの日タイムマシン_(Instrumental)_LONG_SHOT_PARTY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの日タイムマシン",
+      "artist": "LONGSHOTPARTY",
+      "has_synced": false,
+      "path": "select/pl_01_あの日タイムマシン_LONGSHOTPARTY.txt"
+    }
+  ]
+}
